@@ -1,1 +1,3 @@
-Test Git
+# Test Git
+
+## Heading 2
